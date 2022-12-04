@@ -1,0 +1,3 @@
+Hoofstuk01.txt
+Hoofstuk02.txt
+Hoofstuk03.txt
